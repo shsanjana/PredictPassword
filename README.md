@@ -20,3 +20,16 @@ Strength of the password based on rules(such as containing digits, special symbo
 
 
 The passwords used in our analysis are from 000webhost leak that is available online
+##Steps 
+# 1.. read data from SQL Database !
+# 2.. Doing basic data cleaning !
+# 3.. Performing Semantic Analysis !
+# 4.. Applying Feature Engineering !
+# 5.. Performing Descriptive Statistics !
+# 6.. Feature Importance ! 
+# 7.. Applying TF_IDF on data
+# 8.. Applying Machine Learning algorithm !
+# 9.. Doing prediction on sample data (user-entered input)
+# 10.. Model evaluation :
+
+
